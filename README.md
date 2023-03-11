@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 📫 How to reach me **[linkedin.com/in/emre-kara-79aa75238](https://www.linkedin.com/in/emre-kara7/)**
+- 📫 How to reach me **[linkedin](https://www.linkedin.com/in/emre-kara7/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
