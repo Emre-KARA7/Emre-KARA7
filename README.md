@@ -1,4 +1,4 @@
-[![MasterHead]([https://res.cloudinary.com/practicaldev/image/fetch/s--5iH5BNWm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lczn4fca41is4vpicr6w.gif])]
+[![MasterHead](https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS/modules/553018205)]
 <h1 align="center">Hi 👋, I'm Emre Kara</h1>
 <h3 align="center">CE student in SAU</h3>
 <img align="right" alt="Coffee" width="400" src="https://i.pinimg.com/200x150/bc/67/21/bc67211b16f06e5e8306098b92fe6301.jpg">
