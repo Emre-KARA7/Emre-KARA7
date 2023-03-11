@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif)]
+[![MasterHead](https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif)
 <!--https://res.cloudinary.com/practicaldev/image/fetch/s--5iH5BNWm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lczn4fca41is4vpicr6w.gif-->
 <h1 align="center">Hi 👋, I'm Emre Kara</h1>
 <h3 align="center">CE student in SAU</h3>
