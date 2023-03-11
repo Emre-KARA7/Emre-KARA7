@@ -1,7 +1,6 @@
-[![MasterHead](https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS/modules/553018205)]
+[![MasterHead]([https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS/modules/553018205](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif))]
 <h1 align="center">Hi 👋, I'm Emre Kara</h1>
 <h3 align="center">CE student in SAU</h3>
-<img align="right" alt="Coffee" width="400" src="https://i.pinimg.com/200x150/bc/67/21/bc67211b16f06e5e8306098b92fe6301.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emre-kara7" alt="emre-kara7" /></a> </p>
 
