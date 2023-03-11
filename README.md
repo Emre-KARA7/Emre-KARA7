@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS/modules/553018205))]
 <h1 align="center">Hi 👋, I'm Emre Kara</h1>
 <h3 align="center">CE student in SAU</h3>
 
